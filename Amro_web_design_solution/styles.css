@@ -1,0 +1,55 @@
+h1 {
+    color: rgb(57, 201, 170);
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom:20px
+}
+
+h2 {
+    color: white;
+    background-color: rgb(57, 201, 170)
+}
+
+
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(57, 201, 170);
+    text-align: center;
+    color:white
+}
+
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-left:150px !important;
+    background-color:rgb(57, 201, 170);
+}
+
+
+@media (max-width: 768px) {.navbar-default {
+    background:rgb(57, 201, 170)}
+}
+.navbar-collapse {
+    background-color: white
+}
+
+
+.fig_header{
+    color:rgb(57, 201, 170);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center
+
+}
+
+.img-thumbnail {
+    border-color: blue;
+    padding-bottom: 0px
+}
+
+.thumbnail {
+    border-color: blue;
+    padding-bottom: 0px
+}
